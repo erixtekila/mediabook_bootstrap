@@ -1,4 +1,4 @@
-# Summary
+# Sommaire
 
 * [Fondamentaux de Bootstrap](fondamentals)
 
