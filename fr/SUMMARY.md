@@ -1,4 +1,4 @@
 # Sommaire
 
-* [Fondamentaux de Bootstrap](fondamentals)
+* [Fondamentaux de Bootstrap](fondamentals/README.md)
 
