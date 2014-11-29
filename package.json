@@ -3,6 +3,7 @@
     "version": "0.0.0",
     "dependencies": {
         "gitbook-plugin-infinitescroll": "*",
-        "gitbook-plugin-richquotes": "*"
+        "gitbook-plugin-richquotes": "*",
+        "gitbook-plugin-jsbin": "*"
     }
 }
