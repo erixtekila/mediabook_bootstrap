@@ -1,10 +1,13 @@
 {
-    "name": "book",
-    "version": "0.0.0",
-    "dependencies": {
-        "gitbook-plugin-infinitescroll": "*",
-        "gitbook-plugin-richquotes": "*",
-        "gitbook-plugin-jsbin": "*",
-        "gitbook-plugin-anchors": "*"
-    }
+  "name": "book",
+  "version": "0.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gitbook-plugin-infinitescroll": "*",
+    "gitbook-plugin-richquotes": "*",
+    "gitbook-plugin-jsbin": "*",
+    "gitbook-plugin-anchors": "*",
+    "gitbook-plugin-codeblock-filename": "0.0.6"
+  }
 }
