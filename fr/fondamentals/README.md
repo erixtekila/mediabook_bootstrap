@@ -5,4 +5,4 @@ A part avoir vécu sous une pierre ses dernières années, vous devez vous être
 Pour résumer, **Bootstrap est un framework _mobile first_ utilisant l'enrichissement progressif** ; c'est-à-dire, les meilleurs pratiques actuelles en matière de création de contenu.  
 Ce qui permet de focaliser votre attention plus sur la qualité de l'architecture de l'information de votre production, plutôt que sur les contraintes techniques liées à la réalisation.
 
-Mais que ce gain de temps ne vous rende pas pour autant feignants ! Comme son nom l'indique _bootstrap_ est une amorce, soit le début du travail. **Il est fortement conseillé de vous appropriez ces outils pour en personnaliser l'apparence**. 
+Mais que ce gain de temps ne vous rende pas pour autant feignants ! Comme son nom l'indique _bootstrap_ n'est qu'une amorce, soit le début du travail. **Il est fortement conseillé de vous l'appropriez pour en personnaliser l'apparence**. Au risque de faire le même site que tout le monde…
