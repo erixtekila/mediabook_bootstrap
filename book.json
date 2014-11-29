@@ -2,8 +2,7 @@
     "plugins": [
         "infinitescroll",
         "richquotes",
-        "jsbin",
-        "anchors"
+        "jsbin"
     ],
     "pluginsConfig": {}
 }
