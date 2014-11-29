@@ -1,6 +1,4 @@
 # Summary
 
-Sommaire français
+* [Fondamentaux de Bootstrap](fondamentals)
 
-* [Fondamentaux de Bootstrap](fondamentaux/README.md)
-    * 
