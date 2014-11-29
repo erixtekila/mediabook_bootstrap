@@ -1,4 +1,4 @@
 bootstrap_workflow
 ==================
 
-A book to deiscover bootstarp workflow
+A book to discover bootstarp workflow
