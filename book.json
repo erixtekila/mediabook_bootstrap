@@ -1,8 +1,7 @@
 {
     "plugins": [
         "infinitescroll",
-        "richquotes",
-        "jsbin"
+        "richquotes"
     ],
     "pluginsConfig": {}
 }
