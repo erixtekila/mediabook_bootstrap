@@ -4,7 +4,7 @@ Une introduction au workflow d'integration Bootstrap.
 Ce cours est donné dans le cadre des [formations mediabox](http://www.mediabox.fr/programme-html-css-bootstrap.html).
 
 <img src="images/shadoko.jpg" alt="Professor Shadoko" title="Professor Shadoko" width="100" />
-Il est consultable librement sur [gitbook](http://erixtekila.gitbooks.io/boostrap/) et mon [hébergement](ericpriou.net/formations/bootstrap/)
+Il est consultable librement sur [gitbook](http://erixtekila.gitbooks.io/boostrap/) et mon [hébergement](http://ericpriou.net/formations/bootstrap/)
 
 - **Objectif : 3 jours**
 Augmentez vos capacités de création de site responsive web design grâce au pré-processeur CSS LESS et son framework Bootstrap associé.
