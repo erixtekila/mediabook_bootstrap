@@ -10,7 +10,7 @@
     },
     "plugins": [
         "-mathjax",
-        "infinitescroll",
+        "-infinitescroll",
         "richquotes",
         "jsbin",
         "anchors"

@@ -4,7 +4,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "gitbook-plugin-infinitescroll": "*",
     "gitbook-plugin-richquotes": "*",
     "gitbook-plugin-jsbin": "*",
     "gitbook-plugin-anchors": "*",
