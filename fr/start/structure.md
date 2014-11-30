@@ -15,6 +15,4 @@
 	- Les tables peuvent également est _reponsie_ avec `.table-responsive`
 [code](http://jsbin.com/wewoju/2/embed?output)
 
-## Formulaires
-
 
