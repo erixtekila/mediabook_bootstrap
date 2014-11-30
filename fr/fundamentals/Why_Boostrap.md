@@ -28,6 +28,6 @@ Voici une liste non exhaustive des frameworks css essentiels :
 
 [Pour une liste plus extensive](http://resource-guru.com/tools/responsive-css-framework-2014)
 
-Toutefois, connaître les rouages d'un framework, vous permettra d'en approcher d'autres plus aisément.
+> **Hint** Toutefois, connaître les rouages d'un framework, vous permettra d'en approcher d'autres plus aisément.
 Ils ont tous leur avantages et leurs inconvénients propres.
 

@@ -8,11 +8,11 @@ Comment déterminer ce qu'est l'enrichissement progressif ? Par ce qu'il n'est p
 
 ## Etre ou ne pas être.
 
-> La _dégradation continue_ décrit la technique qui consiste à construire un site internet en ciblant les navigateurs les plus avancé. Un affichage différent est appliqué par la suite (dégradation) pour les vieux coucous bien connus.
+> **Quote** La _dégradation continue_ décrit la technique qui consiste à construire un site internet en ciblant les navigateurs les plus avancé. Un affichage différent est appliqué par la suite (dégradation) pour les vieux coucous bien connus.
 
 > L'_enrichissement progressif_, au contraire, focalise sur le contenu. Lui sont ajoutés par "couches" successives des fonctions de plus en plus évoluées.
 
-_Traduit de [Understanding progressive enhancement](http://alistapart.com/article/understandingprogressiveenhancement)_
+> _Traduit de [Understanding progressive enhancement](http://alistapart.com/article/understandingprogressiveenhancement)_
 
 ![Noisette enrichie](../images/progressive_enhancement-nut.jpg)
 

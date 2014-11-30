@@ -2,7 +2,7 @@
 
 [![Responsive web design, le livre](../images/rwd.png)](http://www.eyrolles.com/Informatique/Livre/responsive-web-design-9782212133318)
 
-> Le terme est une invention de Ethan Marcotte qui permet de définir les moyens d'articuler la disposition d'un site internet pour de multiples résolutions.
+> **Quote** Le terme est une invention de Ethan Marcotte qui permet de définir les moyens d'articuler la disposition d'un site internet pour de multiples résolutions.
 Les 3 fondements sont les suivants :
 
 > - Une grille fluide qui s'étend à la taille des écrans grâce à l'usage d'unités CSS exclusivement relatives (%, em…)
